@@ -1,0 +1,12 @@
+# Day 1 - Python Basics
+
+name = "Salim"
+age = 22
+
+print("My name is", name)
+print("I am", age, "years old")
+
+if age >= 18:
+    print("I am an adult")
+else:
+    print("I am under 18")
